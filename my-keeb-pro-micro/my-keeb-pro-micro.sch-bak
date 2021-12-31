@@ -1406,7 +1406,7 @@ Text GLabel 10250 1000 1    50   Input ~ 0
 COL8
 Text GLabel 10900 1000 1    50   Input ~ 0
 COL9
-Text GLabel 950  1500 2    50   Input ~ 0
+Text GLabel 1500 2300 0    50   Input ~ 0
 COL9
 $Comp
 L power:GND #PWR0101
@@ -1492,43 +1492,43 @@ Wire Wire Line
 	3600 1900 3700 1900
 Wire Wire Line
 	3600 1900 3600 2100
-Text GLabel 950  1400 2    50   Input ~ 0
+Text GLabel 1500 2400 0    50   Input ~ 0
 COL8
 Text GLabel 2900 2300 2    50   Input ~ 0
 ROW0
-Text GLabel 550  700  2    50   Input ~ 0
+Text GLabel 2900 3000 2    50   Input ~ 0
 ROW1
-Text GLabel 550  800  2    50   Input ~ 0
+Text GLabel 1500 3000 0    50   Input ~ 0
 ROW2
-Text GLabel 550  900  2    50   Input ~ 0
+Text GLabel 1500 2900 0    50   Input ~ 0
 ROW3
-Text GLabel 950  600  2    50   Input ~ 0
+Text GLabel 2900 2400 2    50   Input ~ 0
 COL0
-Text GLabel 950  700  2    50   Input ~ 0
+Text GLabel 2900 2500 2    50   Input ~ 0
 COL1
-Text GLabel 950  800  2    50   Input ~ 0
+Text GLabel 2900 2600 2    50   Input ~ 0
 COL2
-Text GLabel 950  900  2    50   Input ~ 0
+Text GLabel 2900 2700 2    50   Input ~ 0
 COL3
-Text GLabel 950  1000 2    50   Input ~ 0
+Text GLabel 2900 2800 2    50   Input ~ 0
 COL4
-Text GLabel 950  1100 2    50   Input ~ 0
+Text GLabel 1500 2700 0    50   Input ~ 0
 COL5
-Text GLabel 950  1200 2    50   Input ~ 0
+Text GLabel 1500 2600 0    50   Input ~ 0
 COL6
-Text GLabel 950  1300 2    50   Input ~ 0
+Text GLabel 1500 2500 0    50   Input ~ 0
 COL7
-Text GLabel 550  1000 2    50   Input ~ 0
+Text GLabel 1500 2800 0    50   Input ~ 0
 ROW4
 Text GLabel 5800 4700 0    50   Input ~ 0
 ROW4
 $Comp
-L keebio:ProMicro U?
+L keebio:ProMicro U1
 U 1 1 61D96A13
 P 2200 2450
-F 0 "U?" H 2200 3287 60  0000 C CNN
+F 0 "U1" H 2200 3287 60  0000 C CNN
 F 1 "ProMicro" H 2200 3181 60  0000 C CNN
-F 2 "" V 3250 -50 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 3250 -50 60  0001 C CNN
 F 3 "" V 3250 -50 60  0001 C CNN
 	1    2200 2450
 	1    0    0    -1  
