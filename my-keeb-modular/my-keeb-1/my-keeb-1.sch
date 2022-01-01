@@ -766,8 +766,6 @@ F 3 "~" H 3100 5650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2700 5350 2700 5150
-Wire Wire Line
 	2700 5150 2800 5150
 $Comp
 L power:VCC #PWR0104
@@ -813,17 +811,6 @@ Text GLabel 1200 6150 0    50   Input ~ 0
 ROW4
 Text GLabel 2200 4650 0    50   Input ~ 0
 ROW4
-$Comp
-L keebio:ProMicro U1
-U 1 1 61D96A13
-P 1900 5800
-F 0 "U1" H 1900 6637 60  0000 C CNN
-F 1 "ProMicro" H 1900 6531 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 2950 3300 60  0001 C CNN
-F 3 "" V 2950 3300 60  0001 C CNN
-	1    1900 5800
-	1    0    0    -1  
-$EndComp
 Text GLabel 2600 6150 2    50   Input ~ 0
 COL4
 Text GLabel 2600 6050 2    50   Input ~ 0
@@ -901,4 +888,17 @@ Text GLabel 2750 7350 2    50   Input ~ 0
 COL9
 Text GLabel 2000 6950 2    50   Input ~ 0
 COL0
+Wire Wire Line
+	2700 5350 2700 5150
+$Comp
+L keebio:ProMicro U1
+U 1 1 61D96A13
+P 1900 5800
+F 0 "U1" H 1900 6637 60  0000 C CNN
+F 1 "ProMicro" H 1900 6531 60  0000 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 2950 3300 60  0001 C CNN
+F 3 "" V 2950 3300 60  0001 C CNN
+	1    1900 5800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
