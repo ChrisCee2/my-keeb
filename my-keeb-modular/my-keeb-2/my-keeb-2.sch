@@ -804,17 +804,6 @@ Text GLabel 1200 6050 0    50   Input ~ 0
 ROW4
 Text GLabel 900  4600 0    50   Input ~ 0
 ROW4
-$Comp
-L keebio:ProMicro U1
-U 1 1 61D96A13
-P 1900 5700
-F 0 "U1" H 1900 6537 60  0000 C CNN
-F 1 "ProMicro" H 1900 6431 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 2950 3200 60  0001 C CNN
-F 3 "" V 2950 3200 60  0001 C CNN
-	1    1900 5700
-	1    0    0    -1  
-$EndComp
 Text GLabel 900  1600 0    50   Input ~ 0
 ROW0
 Text GLabel 900  2350 0    50   Input ~ 0
@@ -839,34 +828,34 @@ Wire Wire Line
 	1150 4600 900  4600
 Connection ~ 1150 4600
 $Comp
-L modular:1x5 M?
+L modular:1x5 M1
 U 1 1 61F31400
 P 1050 6700
-F 0 "M?" H 858 6825 50  0000 C CNN
+F 0 "M1" H 858 6825 50  0000 C CNN
 F 1 "1x5" H 858 6734 50  0000 C CNN
-F 2 "" H 1050 6700 50  0001 C CNN
+F 2 "modular:1x5" H 1050 6700 50  0001 C CNN
 F 3 "" H 1050 6700 50  0001 C CNN
 	1    1050 6700
 	1    0    0    -1  
 $EndComp
 $Comp
-L modular:1x5 M?
+L modular:1x5 M2
 U 1 1 61F32250
 P 1800 6700
-F 0 "M?" H 1608 6825 50  0000 C CNN
+F 0 "M2" H 1608 6825 50  0000 C CNN
 F 1 "1x5" H 1608 6734 50  0000 C CNN
-F 2 "" H 1800 6700 50  0001 C CNN
+F 2 "modular:1x5" H 1800 6700 50  0001 C CNN
 F 3 "" H 1800 6700 50  0001 C CNN
 	1    1800 6700
 	1    0    0    -1  
 $EndComp
 $Comp
-L modular:1x5 M?
+L modular:1x5 M3
 U 1 1 61F32839
 P 2550 6700
-F 0 "M?" H 2358 6825 50  0000 C CNN
+F 0 "M3" H 2358 6825 50  0000 C CNN
 F 1 "1x5" H 2358 6734 50  0000 C CNN
-F 2 "" H 2550 6700 50  0001 C CNN
+F 2 "modular:1x5" H 2550 6700 50  0001 C CNN
 F 3 "" H 2550 6700 50  0001 C CNN
 	1    2550 6700
 	1    0    0    -1  
@@ -901,4 +890,15 @@ Text GLabel 2500 7100 2    50   Input ~ 0
 COL8
 Text GLabel 2500 7200 2    50   Input ~ 0
 COL9
+$Comp
+L keebio:ProMicro U1
+U 1 1 61D0EDD3
+P 1900 5700
+F 0 "U1" H 1900 6537 60  0000 C CNN
+F 1 "ProMicro" H 1900 6431 60  0000 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 2950 3200 60  0001 C CNN
+F 3 "" V 2950 3200 60  0001 C CNN
+	1    1900 5700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
