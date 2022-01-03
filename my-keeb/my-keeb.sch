@@ -1875,4 +1875,9 @@ Text GLabel 3350 6700 2    50   Input ~ 0
 ROW0
 Text GLabel 3350 6600 2    50   Input ~ 0
 COL8
+Text GLabel 1500 5300 3    50   Input ~ 0
+DN
+Text GLabel 1500 5200 1    50   Input ~ 0
+DP
+NoConn ~ 4250 7000
 $EndSCHEMATC
