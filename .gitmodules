@@ -1,21 +1,21 @@
 [submodule "MX_Alps_Hybrid"]
-	path = MX_Alps_Hybrid
+	path = libs-and-prettys/MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
 [submodule "random-keyboard-parts.pretty"]
-	path = random-keyboard-parts.pretty
+	path = libs-and-prettys/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
 [submodule "ProMicroKiCad"]
-	path = ProMicroKiCad
+	path = libs-and-prettys/ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad
 [submodule "keyboard_parts.pretty"]
-	path = keyboard_parts.pretty
+	path = libs-and-prettys/keyboard_parts.pretty
 	url = https://github.com/colemarkham/keyboard_parts.pretty.git
 [submodule "Keebio-Parts.pretty"]
-	path = Keebio-Parts.pretty
+	path = libs-and-prettys/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
 [submodule "keebio-components"]
-	path = keebio-components
+	path = libs-and-prettys/keebio-components
 	url = https://github.com/keebio/keebio-components.git
 [submodule "Type-C.pretty"]
-	path = Type-C.pretty
+	path = libs-and-prettys/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty.git
