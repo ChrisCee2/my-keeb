@@ -3,8 +3,9 @@ Creating a keyboard (Inspired by Littlefoot)<br/>
 
 Images of Type-C pcb:
 <br/>
-
-
+![Front](images/my-keeb-type-c-front.png)
+<br/>
+![Back](images/my-keeb-type-c-back.png)
 <br/>
 Guides used:
 <br/>
