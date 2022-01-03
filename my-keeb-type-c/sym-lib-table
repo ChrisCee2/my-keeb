@@ -3,4 +3,5 @@
   (lib (name keebio)(type Legacy)(uri C:/Users/Chris/Desktop/my-keeb/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name modular)(type Legacy)(uri C:/Users/Chris/Desktop/my-keeb/modular/modular.lib)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/Chris/Desktop/my-keeb/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri C:/Users/Chris/Desktop/my-keeb/Type-C.pretty/Type-C.lib)(options "")(descr ""))
 )
