@@ -6,4 +6,5 @@
   (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name sasha)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/sasha/.svg2shenzhen-cache/sasha.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/Type-C.pretty)(options "")(descr ""))
+  (lib (name sasha-small)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/sasha-small/.svg2shenzhen-cache/sasha-small.pretty)(options "")(descr ""))
 )
