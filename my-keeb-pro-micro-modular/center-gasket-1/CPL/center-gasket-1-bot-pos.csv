@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,D_Small,Diode-Hybrid-Back,38.89375,-30.95625,270,bottom
+D2,D_Small,Diode-Hybrid-Back,38.89375,-50.00625,270,bottom
+D3,D_Small,Diode-Hybrid-Back,38.89375,-69.05625,270,bottom
+D4,D_Small,Diode-Hybrid-Back,38.89375,-88.10625,270,bottom
+D5,D_Small,Diode-Hybrid-Back,57.94375,-30.95625,270,bottom
+D6,D_Small,Diode-Hybrid-Back,57.94375,-50.00625,270,bottom
+D7,D_Small,Diode-Hybrid-Back,57.94375,-69.11875,270,bottom
+D8,D_Small,Diode-Hybrid-Back,57.94375,-88.10625,270,bottom
+D9,D_Small,Diode-Hybrid-Back,76.99375,-30.95625,270,bottom
+D10,D_Small,Diode-Hybrid-Back,76.99375,-50.00625,270,bottom
+D11,D_Small,Diode-Hybrid-Back,76.99375,-69.05625,270,bottom
+D12,D_Small,Diode-Hybrid-Back,76.99375,-88.10625,270,bottom
+D13,D_Small,Diode-Hybrid-Back,67.46875,-107.15625,270,bottom
+D14,D_Small,Diode-Hybrid-Back,96.04375,-30.95625,270,bottom
+D15,D_Small,Diode-Hybrid-Back,96.04375,-50.00625,270,bottom
+D16,D_Small,Diode-Hybrid-Back,96.04375,-69.05625,270,bottom
+D17,D_Small,Diode-Hybrid-Back,96.04375,-88.10625,270,bottom
+D18,D_Small,Diode-Hybrid-Back,86.51875,-107.15625,270,bottom
+D19,D_Small,Diode-Hybrid-Back,115.09375,-30.95625,270,bottom
+D20,D_Small,Diode-Hybrid-Back,107.15625,-57.94375,180,bottom
+D21,D_Small,Diode-Hybrid-Back,107.15625,-76.99375,180,bottom
+D22,D_Small,Diode-Hybrid-Back,107.15625,-96.04375,180,bottom
+D23,D_Small,Diode-Hybrid-Back,102.39375,-115.09375,180,bottom
