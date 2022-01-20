@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Chris\Desktop\my-keeb\my-keeb-pro-micro-modular\center-gasket-2\center-gasket-2.sch</source>
-    <date>1/7/2022 5:36:16 PM</date>
+    <date>1/7/2022 8:26:00 PM</date>
     <tool>Eeschema (5.1.12)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -49,7 +49,7 @@
       <tstamp>61DD74DC</tstamp>
     </comp>
     <comp ref="D38">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -67,7 +67,7 @@
       <tstamp>61DD74A7</tstamp>
     </comp>
     <comp ref="D28">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -85,7 +85,7 @@
       <tstamp>61DD747E</tstamp>
     </comp>
     <comp ref="D33">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -96,7 +96,7 @@
       <tstamp>61DD7473</tstamp>
     </comp>
     <comp ref="D25">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -107,7 +107,7 @@
       <tstamp>61D98169</tstamp>
     </comp>
     <comp ref="D30">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -118,7 +118,7 @@
       <tstamp>61D9815F</tstamp>
     </comp>
     <comp ref="D35">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -129,7 +129,7 @@
       <tstamp>61D98155</tstamp>
     </comp>
     <comp ref="D40">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -140,7 +140,7 @@
       <tstamp>61D9814B</tstamp>
     </comp>
     <comp ref="D44">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -151,7 +151,7 @@
       <tstamp>61D98141</tstamp>
     </comp>
     <comp ref="D26">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -162,7 +162,7 @@
       <tstamp>61D98137</tstamp>
     </comp>
     <comp ref="D31">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -180,7 +180,7 @@
       <tstamp>61D98121</tstamp>
     </comp>
     <comp ref="D36">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -198,7 +198,7 @@
       <tstamp>61D9810C</tstamp>
     </comp>
     <comp ref="D41">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -230,7 +230,7 @@
       <tstamp>61D980E3</tstamp>
     </comp>
     <comp ref="D45">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -241,7 +241,7 @@
       <tstamp>61D980D9</tstamp>
     </comp>
     <comp ref="D27">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -252,7 +252,7 @@
       <tstamp>61D980CE</tstamp>
     </comp>
     <comp ref="D32">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -270,7 +270,7 @@
       <tstamp>61D980B8</tstamp>
     </comp>
     <comp ref="D37">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -288,7 +288,7 @@
       <tstamp>61D980A3</tstamp>
     </comp>
     <comp ref="D42">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -320,7 +320,7 @@
       <tstamp>61D9807A</tstamp>
     </comp>
     <comp ref="D46">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -366,7 +366,7 @@
       <tstamp>61D9803A</tstamp>
     </comp>
     <comp ref="D43">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -398,7 +398,7 @@
       <tstamp>61D9800F</tstamp>
     </comp>
     <comp ref="D39">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -416,7 +416,7 @@
       <tstamp>61D97FFA</tstamp>
     </comp>
     <comp ref="D34">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -434,7 +434,7 @@
       <tstamp>61D97FE5</tstamp>
     </comp>
     <comp ref="D29">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>
@@ -445,7 +445,7 @@
       <tstamp>61D97FDA</tstamp>
     </comp>
     <comp ref="D24">
-      <value>SOD-123</value>
+      <value>D_Small</value>
       <footprint>Keebio-Parts:Diode-Hybrid-Back</footprint>
       <datasheet>~</datasheet>
       <fields>

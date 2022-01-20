@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.12)-1*%
-%TF.CreationDate,2022-01-07T17:35:06-05:00*%
+%TF.CreationDate,2022-01-07T20:18:48-05:00*%
 %TF.ProjectId,center-gasket-2,63656e74-6572-42d6-9761-736b65742d32,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.12)-1) date 2022-01-07 17:35:06*
+G04 Created by KiCad (PCBNEW (5.1.12)-1) date 2022-01-07 20:18:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -509,9 +509,9 @@ X105568750Y-36581250D03*
 %TD*%
 D15*
 %TO.C,D38*%
-X80168750Y-120581250D03*
+X96043750Y-120581250D03*
 D16*
-X80168750Y-112781250D03*
+X96043750Y-112781250D03*
 %TD*%
 D15*
 %TO.C,D37*%
