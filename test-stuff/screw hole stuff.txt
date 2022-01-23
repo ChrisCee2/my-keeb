@@ -1,0 +1,12 @@
+left to right:
+screw print
+screw head hole: 5.3mm, 5.325mm, 5.35mm, 5.4mm (diameters)
+screw hole: 2.671mm diameter hole, 3mm diameter hole, Threaded M3x0.35, Threaded M3x0.5
+
+Only holes 1, 3, 4 work
+Hole 2 has too big hole and is too difficult to get head in spot
+Could widen screw hole to allow screws with bigger heads
+
+nut print
+nut head hole: 2.70mm, 2.71mm, 2.725mm, 2.75mm (radiuses)
+nut hole: 2.529mm diameter hole, 3.25mm hole, 3.4mm hole (Clearance, Ansi Metric M Profile, Flat Head Machine Screw, M3, Normal), 3.2mm hole (Clearance, Ansi Metric M Profile, Flat Head Machine Screw, M3, Close)

@@ -1,0 +1,16 @@
+LENGTH ~= 190.507mm
+WIDTH (NOT COUNTING GASKET MOUNT) ~= 95.25mm
+
+Designing case to be 1cm, 10mm bevel
+
+case length should be 210.507mm
+case width should be 115.25mm
+gasket gap set at 1.5mm
+BUMPON is 8mm
+use m3 screws?
+
+screw holes set to 3.25mm
+nuts should be 5.4mm from point to point (model is set to 5.45mm diameter)
+gasket has 0.05mm of extra space
+tutorial:
+https://www.youtube.com/watch?v=4P0zfLLblOw&t=6022s
