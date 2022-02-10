@@ -10,3 +10,8 @@ Could widen screw hole to allow screws with bigger heads
 nut print
 nut head hole: 2.70mm, 2.71mm, 2.725mm, 2.75mm (radiuses)
 nut hole: 2.529mm diameter hole, 3.25mm hole, 3.4mm hole (Clearance, Ansi Metric M Profile, Flat Head Machine Screw, M3, Normal), 3.2mm hole (Clearance, Ansi Metric M Profile, Flat Head Machine Screw, M3, Close)
+
+newest tester
+head holes: 6mm, 6.5mm, 6mm, 6.5mm
+holes: all the same, m3x0.5
+head heights: 1mm, 2mm alternating
