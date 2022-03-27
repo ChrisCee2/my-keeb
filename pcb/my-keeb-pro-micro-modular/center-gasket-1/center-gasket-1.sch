@@ -1,0 +1,781 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1350 1450 1250 1450
+Wire Wire Line
+	2000 1450 1900 1450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 61D2C980
+P 2700 1300
+F 0 "MX9" H 2733 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 2733 1449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2075 1275 60  0001 C CNN
+F 3 "" H 2075 1275 60  0001 C CNN
+	1    2700 1300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 1450 2550 1450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX14
+U 1 1 61D2C995
+P 3350 1300
+F 0 "MX14" H 3383 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 3383 1449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2725 1275 60  0001 C CNN
+F 3 "" H 2725 1275 60  0001 C CNN
+	1    3350 1300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 1450 3200 1450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 61CC5DEB
+P 1400 1300
+F 0 "MX1" H 1433 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 1433 1449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 775 1275 60  0001 C CNN
+F 3 "" H 775 1275 60  0001 C CNN
+	1    1400 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 61D258E7
+P 2050 1300
+F 0 "MX5" H 2083 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 2083 1449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1425 1275 60  0001 C CNN
+F 3 "" H 1425 1275 60  0001 C CNN
+	1    2050 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX19
+U 1 1 61D41A98
+P 4000 1300
+F 0 "MX19" H 4033 1523 60  0000 C CNN
+F 1 "MX-NoLED" H 4033 1449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3375 1275 60  0001 C CNN
+F 3 "" H 3375 1275 60  0001 C CNN
+	1    4000 1300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 1450 3850 1450
+Wire Wire Line
+	1350 2200 1250 2200
+Wire Wire Line
+	2000 2200 1900 2200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 61D46045
+P 2700 2050
+F 0 "MX10" H 2733 2273 60  0000 C CNN
+F 1 "MX-NoLED" H 2733 2199 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2075 2025 60  0001 C CNN
+F 3 "" H 2075 2025 60  0001 C CNN
+	1    2700 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 2200 2550 2200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX15
+U 1 1 61D4605A
+P 3350 2050
+F 0 "MX15" H 3383 2273 60  0000 C CNN
+F 1 "MX-NoLED" H 3383 2199 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2725 2025 60  0001 C CNN
+F 3 "" H 2725 2025 60  0001 C CNN
+	1    3350 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 2200 3200 2200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 61D4606F
+P 1400 2050
+F 0 "MX2" H 1433 2273 60  0000 C CNN
+F 1 "MX-NoLED" H 1433 2199 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 775 2025 60  0001 C CNN
+F 3 "" H 775 2025 60  0001 C CNN
+	1    1400 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 61D46079
+P 2050 2050
+F 0 "MX6" H 2083 2273 60  0000 C CNN
+F 1 "MX-NoLED" H 2083 2199 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1425 2025 60  0001 C CNN
+F 3 "" H 1425 2025 60  0001 C CNN
+	1    2050 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX20
+U 1 1 61D46083
+P 4000 2050
+F 0 "MX20" H 4033 2273 60  0000 C CNN
+F 1 "MX-NoLED" H 4033 2199 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3375 2025 60  0001 C CNN
+F 3 "" H 3375 2025 60  0001 C CNN
+	1    4000 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 2200 3850 2200
+Wire Wire Line
+	3950 3700 3850 3700
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX22
+U 1 1 61D5E046
+P 4000 3550
+F 0 "MX22" H 4033 3773 60  0000 C CNN
+F 1 "MX-NoLED" H 4033 3699 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3375 3525 60  0001 C CNN
+F 3 "" H 3375 3525 60  0001 C CNN
+	1    4000 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 61D5E03C
+P 2050 3550
+F 0 "MX8" H 2083 3773 60  0000 C CNN
+F 1 "MX-NoLED" H 2083 3699 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1425 3525 60  0001 C CNN
+F 3 "" H 1425 3525 60  0001 C CNN
+	1    2050 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 61D5E032
+P 1400 3550
+F 0 "MX4" H 1433 3773 60  0000 C CNN
+F 1 "MX-NoLED" H 1433 3699 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 775 3525 60  0001 C CNN
+F 3 "" H 775 3525 60  0001 C CNN
+	1    1400 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3700 3200 3700
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17
+U 1 1 61D5E01D
+P 3350 3550
+F 0 "MX17" H 3383 3773 60  0000 C CNN
+F 1 "MX-NoLED" H 3383 3699 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2725 3525 60  0001 C CNN
+F 3 "" H 2725 3525 60  0001 C CNN
+	1    3350 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 3700 2550 3700
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 61D5E008
+P 2700 3550
+F 0 "MX12" H 2733 3773 60  0000 C CNN
+F 1 "MX-NoLED" H 2733 3699 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2075 3525 60  0001 C CNN
+F 3 "" H 2075 3525 60  0001 C CNN
+	1    2700 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 3700 1900 3700
+Wire Wire Line
+	1350 3700 1250 3700
+Wire Wire Line
+	3950 2950 3850 2950
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX21
+U 1 1 61D5DFDD
+P 4000 2800
+F 0 "MX21" H 4033 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 4033 2949 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3375 2775 60  0001 C CNN
+F 3 "" H 3375 2775 60  0001 C CNN
+	1    4000 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 61D5DFD3
+P 2050 2800
+F 0 "MX7" H 2083 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 2083 2949 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1425 2775 60  0001 C CNN
+F 3 "" H 1425 2775 60  0001 C CNN
+	1    2050 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 61D5DFC9
+P 1400 2800
+F 0 "MX3" H 1433 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 1433 2949 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 775 2775 60  0001 C CNN
+F 3 "" H 775 2775 60  0001 C CNN
+	1    1400 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 2950 3200 2950
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16
+U 1 1 61D5DFB4
+P 3350 2800
+F 0 "MX16" H 3383 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 3383 2949 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2725 2775 60  0001 C CNN
+F 3 "" H 2725 2775 60  0001 C CNN
+	1    3350 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 2950 2550 2950
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 61D5DF9F
+P 2700 2800
+F 0 "MX11" H 2733 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 2733 2949 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2075 2775 60  0001 C CNN
+F 3 "" H 2075 2775 60  0001 C CNN
+	1    2700 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 2950 1900 2950
+Wire Wire Line
+	1350 2950 1250 2950
+Wire Wire Line
+	2650 4450 2550 4450
+Wire Wire Line
+	3300 4450 3200 4450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX23
+U 1 1 61DD74BC
+P 4000 4300
+F 0 "MX23" H 4033 4523 60  0000 C CNN
+F 1 "MX-NoLED" H 4033 4449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 3375 4275 60  0001 C CNN
+F 3 "" H 3375 4275 60  0001 C CNN
+	1    4000 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 4450 3850 4450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX13
+U 1 1 61DD7492
+P 2700 4300
+F 0 "MX13" H 2733 4523 60  0000 C CNN
+F 1 "MX-NoLED" H 2733 4449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2075 4275 60  0001 C CNN
+F 3 "" H 2075 4275 60  0001 C CNN
+	1    2700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX18
+U 1 1 61DD7488
+P 3350 4300
+F 0 "MX18" H 3383 4523 60  0000 C CNN
+F 1 "MX-NoLED" H 3383 4449 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2725 4275 60  0001 C CNN
+F 3 "" H 2725 4275 60  0001 C CNN
+	1    3350 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1550 950  1550 1250
+Connection ~ 1550 1250
+Wire Wire Line
+	1550 1250 1550 2000
+Connection ~ 1550 2000
+Wire Wire Line
+	1550 2000 1550 2750
+Connection ~ 1550 2750
+Wire Wire Line
+	1550 2750 1550 3500
+Wire Wire Line
+	2200 950  2200 1250
+Connection ~ 2200 1250
+Wire Wire Line
+	2200 1250 2200 2000
+Connection ~ 2200 2000
+Wire Wire Line
+	2200 2000 2200 2750
+Connection ~ 2200 2750
+Wire Wire Line
+	2200 2750 2200 3500
+Wire Wire Line
+	2850 950  2850 1250
+Connection ~ 2850 1250
+Wire Wire Line
+	2850 1250 2850 2000
+Wire Wire Line
+	2850 2750 2850 3500
+Connection ~ 2850 3500
+Wire Wire Line
+	2850 3500 2850 4250
+Wire Wire Line
+	3500 950  3500 1250
+Connection ~ 3500 1250
+Wire Wire Line
+	3500 1250 3500 2000
+Connection ~ 3500 2000
+Wire Wire Line
+	3500 2000 3500 2750
+Connection ~ 3500 2750
+Wire Wire Line
+	3500 2750 3500 3500
+Connection ~ 3500 3500
+Wire Wire Line
+	3500 3500 3500 4250
+Wire Wire Line
+	4150 950  4150 1250
+Connection ~ 4150 1250
+Wire Wire Line
+	4150 1250 4150 2000
+Connection ~ 4150 2000
+Wire Wire Line
+	4150 2000 4150 2750
+Connection ~ 4150 2750
+Wire Wire Line
+	4150 2750 4150 3500
+Connection ~ 4150 3500
+Wire Wire Line
+	4150 3500 4150 4250
+Connection ~ 3200 2400
+Wire Wire Line
+	3200 2400 3850 2400
+Text GLabel 1000 1650 0    50   Input ~ 0
+ROW0
+Text GLabel 1000 2400 0    50   Input ~ 0
+ROW1
+Text GLabel 1000 3150 0    50   Input ~ 0
+ROW2
+Text GLabel 1000 3900 0    50   Input ~ 0
+ROW3
+Text GLabel 2300 4650 0    50   Input ~ 0
+ROW4
+Text GLabel 1550 950  1    50   Input ~ 0
+COL0
+Text GLabel 2200 950  1    50   Input ~ 0
+COL1
+Text GLabel 2850 950  1    50   Input ~ 0
+COL2
+Text GLabel 3500 950  1    50   Input ~ 0
+COL3
+Text GLabel 4150 950  1    50   Input ~ 0
+COL4
+Text GLabel 4900 1600 2    50   Input ~ 0
+ROW4
+Text GLabel 5650 1400 2    50   Input ~ 0
+COL2
+Text GLabel 5650 1300 2    50   Input ~ 0
+COL1
+Text GLabel 5650 1200 2    50   Input ~ 0
+COL0
+Text GLabel 4900 1500 2    50   Input ~ 0
+ROW3
+Text GLabel 4900 1400 2    50   Input ~ 0
+ROW2
+Text GLabel 4900 1300 2    50   Input ~ 0
+ROW1
+Text GLabel 4900 1200 2    50   Input ~ 0
+ROW0
+Text GLabel 5650 1500 2    50   Input ~ 0
+COL3
+Text GLabel 5650 1600 2    50   Input ~ 0
+COL4
+$Comp
+L modular:1x5 M1
+U 1 1 61D6497A
+P 4950 1100
+F 0 "M1" H 4758 1225 50  0000 C CNN
+F 1 "1x5" H 4758 1134 50  0000 C CNN
+F 2 "modular:1x5" H 4950 1100 50  0001 C CNN
+F 3 "" H 4950 1100 50  0001 C CNN
+	1    4950 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L modular:1x5 M2
+U 1 1 61D65A3D
+P 5700 1100
+F 0 "M2" H 5508 1225 50  0000 C CNN
+F 1 "1x5" H 5508 1134 50  0000 C CNN
+F 2 "modular:1x5" H 5700 1100 50  0001 C CNN
+F 3 "" H 5700 1100 50  0001 C CNN
+	1    5700 1100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 1650 1250 1650
+Connection ~ 2850 2750
+Connection ~ 2850 2000
+Wire Wire Line
+	2850 2000 2850 2750
+Wire Wire Line
+	1000 2400 1250 2400
+Wire Wire Line
+	1000 3150 1250 3150
+Wire Wire Line
+	1000 3900 1250 3900
+Wire Wire Line
+	2300 4650 2550 4650
+$Comp
+L Device:D_Small D1
+U 1 1 61D597F5
+P 1250 1550
+F 0 "D1" V 1296 1480 50  0000 R CNN
+F 1 "D_Small" V 1205 1480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1250 1550 50  0001 C CNN
+F 3 "~" V 1250 1550 50  0001 C CNN
+F 4 "C81598" H 1250 1550 50  0001 C CNN "LCSC"
+	1    1250 1550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1250 1650
+Wire Wire Line
+	1250 1650 1900 1650
+$Comp
+L Device:D_Small D5
+U 1 1 61D5BB90
+P 1900 1550
+F 0 "D5" V 1946 1480 50  0000 R CNN
+F 1 "D_Small" V 1855 1480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1900 1550 50  0001 C CNN
+F 3 "~" V 1900 1550 50  0001 C CNN
+F 4 "C81598" H 1900 1550 50  0001 C CNN "LCSC"
+	1    1900 1550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 1650
+Wire Wire Line
+	1900 1650 2550 1650
+$Comp
+L Device:D_Small D9
+U 1 1 61D5C111
+P 2550 1550
+F 0 "D9" V 2596 1480 50  0000 R CNN
+F 1 "D_Small" V 2505 1480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2550 1550 50  0001 C CNN
+F 3 "~" V 2550 1550 50  0001 C CNN
+F 4 "C81598" H 2550 1550 50  0001 C CNN "LCSC"
+	1    2550 1550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2550 1650
+Wire Wire Line
+	2550 1650 3200 1650
+$Comp
+L Device:D_Small D14
+U 1 1 61D5C7D2
+P 3200 1550
+F 0 "D14" V 3246 1480 50  0000 R CNN
+F 1 "D_Small" V 3155 1480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3200 1550 50  0001 C CNN
+F 3 "~" V 3200 1550 50  0001 C CNN
+F 4 "C81598" H 3200 1550 50  0001 C CNN "LCSC"
+	1    3200 1550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 1650
+Wire Wire Line
+	3200 1650 3850 1650
+$Comp
+L Device:D_Small D19
+U 1 1 61D5D9F4
+P 3850 1550
+F 0 "D19" V 3896 1480 50  0000 R CNN
+F 1 "D_Small" V 3805 1480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 1550 50  0001 C CNN
+F 3 "~" V 3850 1550 50  0001 C CNN
+F 4 "C81598" H 3850 1550 50  0001 C CNN "LCSC"
+	1    3850 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D20
+U 1 1 61D5DFFA
+P 3850 2300
+F 0 "D20" V 3896 2230 50  0000 R CNN
+F 1 "D_Small" V 3805 2230 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 2300 50  0001 C CNN
+F 3 "~" V 3850 2300 50  0001 C CNN
+F 4 "C81598" H 3850 2300 50  0001 C CNN "LCSC"
+	1    3850 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D15
+U 1 1 61D5E600
+P 3200 2300
+F 0 "D15" V 3246 2230 50  0000 R CNN
+F 1 "D_Small" V 3155 2230 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3200 2300 50  0001 C CNN
+F 3 "~" V 3200 2300 50  0001 C CNN
+F 4 "C81598" H 3200 2300 50  0001 C CNN "LCSC"
+	1    3200 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 61D5EC24
+P 2550 2300
+F 0 "D10" V 2596 2230 50  0000 R CNN
+F 1 "D_Small" V 2505 2230 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2550 2300 50  0001 C CNN
+F 3 "~" V 2550 2300 50  0001 C CNN
+F 4 "C81598" H 2550 2300 50  0001 C CNN "LCSC"
+	1    2550 2300
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2550 2400
+Wire Wire Line
+	2550 2400 3200 2400
+$Comp
+L Device:D_Small D6
+U 1 1 61D5F1F5
+P 1900 2300
+F 0 "D6" V 1946 2230 50  0000 R CNN
+F 1 "D_Small" V 1855 2230 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1900 2300 50  0001 C CNN
+F 3 "~" V 1900 2300 50  0001 C CNN
+F 4 "C81598" H 1900 2300 50  0001 C CNN "LCSC"
+	1    1900 2300
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 2400
+Wire Wire Line
+	1900 2400 2550 2400
+$Comp
+L Device:D_Small D2
+U 1 1 61D5F776
+P 1250 2300
+F 0 "D2" V 1296 2230 50  0000 R CNN
+F 1 "D_Small" V 1205 2230 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1250 2300 50  0001 C CNN
+F 3 "~" V 1250 2300 50  0001 C CNN
+F 4 "C81598" H 1250 2300 50  0001 C CNN "LCSC"
+	1    1250 2300
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1250 2400
+Wire Wire Line
+	1250 2400 1900 2400
+$Comp
+L Device:D_Small D16
+U 1 1 61D607E8
+P 3200 3050
+F 0 "D16" V 3246 2980 50  0000 R CNN
+F 1 "D_Small" V 3155 2980 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3200 3050 50  0001 C CNN
+F 3 "~" V 3200 3050 50  0001 C CNN
+F 4 "C81598" H 3200 3050 50  0001 C CNN "LCSC"
+	1    3200 3050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 3150
+Wire Wire Line
+	3200 3150 3850 3150
+$Comp
+L Device:D_Small D21
+U 1 1 61D6118D
+P 3850 3050
+F 0 "D21" V 3896 2980 50  0000 R CNN
+F 1 "D_Small" V 3805 2980 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 3050 50  0001 C CNN
+F 3 "~" V 3850 3050 50  0001 C CNN
+F 4 "C81598" H 3850 3050 50  0001 C CNN "LCSC"
+	1    3850 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D11
+U 1 1 61D6177A
+P 2550 3050
+F 0 "D11" V 2596 2980 50  0000 R CNN
+F 1 "D_Small" V 2505 2980 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2550 3050 50  0001 C CNN
+F 3 "~" V 2550 3050 50  0001 C CNN
+F 4 "C81598" H 2550 3050 50  0001 C CNN "LCSC"
+	1    2550 3050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2550 3150
+Wire Wire Line
+	2550 3150 3200 3150
+$Comp
+L Device:D_Small D7
+U 1 1 61D61DD7
+P 1900 3050
+F 0 "D7" V 1946 2980 50  0000 R CNN
+F 1 "D_Small" V 1855 2980 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1900 3050 50  0001 C CNN
+F 3 "~" V 1900 3050 50  0001 C CNN
+F 4 "C81598" H 1900 3050 50  0001 C CNN "LCSC"
+	1    1900 3050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 3150
+Wire Wire Line
+	1900 3150 2550 3150
+$Comp
+L Device:D_Small D3
+U 1 1 61D62385
+P 1250 3050
+F 0 "D3" V 1296 2980 50  0000 R CNN
+F 1 "D_Small" V 1205 2980 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1250 3050 50  0001 C CNN
+F 3 "~" V 1250 3050 50  0001 C CNN
+F 4 "C81598" H 1250 3050 50  0001 C CNN "LCSC"
+	1    1250 3050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1250 3150
+Wire Wire Line
+	1250 3150 1900 3150
+$Comp
+L Device:D_Small D4
+U 1 1 61D6291F
+P 1250 3800
+F 0 "D4" V 1296 3730 50  0000 R CNN
+F 1 "D_Small" V 1205 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1250 3800 50  0001 C CNN
+F 3 "~" V 1250 3800 50  0001 C CNN
+F 4 "C81598" H 1250 3800 50  0001 C CNN "LCSC"
+	1    1250 3800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1250 3900
+Wire Wire Line
+	1250 3900 1900 3900
+$Comp
+L Device:D_Small D8
+U 1 1 61D63085
+P 1900 3800
+F 0 "D8" V 1946 3730 50  0000 R CNN
+F 1 "D_Small" V 1855 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1900 3800 50  0001 C CNN
+F 3 "~" V 1900 3800 50  0001 C CNN
+F 4 "C81598" H 1900 3800 50  0001 C CNN "LCSC"
+	1    1900 3800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 3900
+Wire Wire Line
+	1900 3900 2550 3900
+$Comp
+L Device:D_Small D12
+U 1 1 61D63624
+P 2550 3800
+F 0 "D12" V 2596 3730 50  0000 R CNN
+F 1 "D_Small" V 2505 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2550 3800 50  0001 C CNN
+F 3 "~" V 2550 3800 50  0001 C CNN
+F 4 "C81598" H 2550 3800 50  0001 C CNN "LCSC"
+	1    2550 3800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2550 3900
+Wire Wire Line
+	2550 3900 3200 3900
+$Comp
+L Device:D_Small D17
+U 1 1 61D63C9A
+P 3200 3800
+F 0 "D17" V 3246 3730 50  0000 R CNN
+F 1 "D_Small" V 3155 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3200 3800 50  0001 C CNN
+F 3 "~" V 3200 3800 50  0001 C CNN
+F 4 "C81598" H 3200 3800 50  0001 C CNN "LCSC"
+	1    3200 3800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 3900
+Wire Wire Line
+	3200 3900 3850 3900
+$Comp
+L Device:D_Small D22
+U 1 1 61D643F0
+P 3850 3800
+F 0 "D22" V 3896 3730 50  0000 R CNN
+F 1 "D_Small" V 3805 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 3800 50  0001 C CNN
+F 3 "~" V 3850 3800 50  0001 C CNN
+F 4 "C81598" H 3850 3800 50  0001 C CNN "LCSC"
+	1    3850 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D23
+U 1 1 61D64960
+P 3850 4550
+F 0 "D23" V 3896 4480 50  0000 R CNN
+F 1 "D_Small" V 3805 4480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 4550 50  0001 C CNN
+F 3 "~" V 3850 4550 50  0001 C CNN
+F 4 "C81598" H 3850 4550 50  0001 C CNN "LCSC"
+	1    3850 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D18
+U 1 1 61D6505B
+P 3200 4550
+F 0 "D18" V 3246 4480 50  0000 R CNN
+F 1 "D_Small" V 3155 4480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3200 4550 50  0001 C CNN
+F 3 "~" V 3200 4550 50  0001 C CNN
+F 4 "C81598" H 3200 4550 50  0001 C CNN "LCSC"
+	1    3200 4550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 4650
+Wire Wire Line
+	3200 4650 3850 4650
+$Comp
+L Device:D_Small D13
+U 1 1 61D653E2
+P 2550 4550
+F 0 "D13" V 2596 4480 50  0000 R CNN
+F 1 "D_Small" V 2505 4480 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2550 4550 50  0001 C CNN
+F 3 "~" V 2550 4550 50  0001 C CNN
+F 4 "C81598" H 2550 4550 50  0001 C CNN "LCSC"
+	1    2550 4550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2550 4650
+Wire Wire Line
+	2550 4650 3200 4650
+$EndSCHEMATC
