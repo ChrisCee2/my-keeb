@@ -4,4 +4,6 @@
   (lib (name promicro)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri C:/Users/Chris/Desktop/my-keeb/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name Sasha-sit)(type KiCad)(uri C:/Users/Chris/Desktop/keyboard_stuff/repos/my-keeb/logo/sasha-sit/.svg2shenzhen-cache/Sasha-Ready-Small.pretty)(options "")(descr ""))
+  (lib (name Sasha)(type KiCad)(uri C:/Users/Chris/Desktop/keyboard_stuff/repos/my-keeb/logo/sasha/.svg2shenzhen-cache/sasha.pretty)(options "")(descr ""))
 )
